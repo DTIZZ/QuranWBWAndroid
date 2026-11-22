@@ -1,0 +1,170 @@
+{
+  "surahs": [
+    {
+      "number": 1,
+      "nameArabic": "سُورَةُ ٱلْفَاتِحَةِ",
+      "nameEnglish": "Al-Fatihah",
+      "meaning": "The Opening",
+      "ayahs": [
+        {
+          "number": 1,
+          "audioUrl": "https://verses.quran.com/Alafasy/mp3/001001.mp3",
+          "words": [
+            {
+              "index": 0,
+              "arabic": "بِسْمِ",
+              "transliteration": "Bismi",
+              "translation": "In (the) name",
+              "audioUrl": "https://audio.qurancdn.com/wbw/001_001_001.mp3",
+              "startMs": 0,
+              "endMs": 680
+            },
+            {
+              "index": 1,
+              "arabic": "ٱللَّهِ",
+              "transliteration": "Allahi",
+              "translation": "(of) Allah",
+              "audioUrl": "https://audio.qurancdn.com/wbw/001_001_002.mp3",
+              "startMs": 680,
+              "endMs": 1450
+            },
+            {
+              "index": 2,
+              "arabic": "ٱلرَّحْمَٰنِ",
+              "transliteration": "Ar-Rahmani",
+              "translation": "the Most Gracious",
+              "audioUrl": "https://audio.qurancdn.com/wbw/001_001_003.mp3",
+              "startMs": 1450,
+              "endMs": 2550
+            },
+            {
+              "index": 3,
+              "arabic": "ٱلرَّحِيمِ",
+              "transliteration": "Ar-Raheem",
+              "translation": "the Most Merciful",
+              "audioUrl": "https://audio.qurancdn.com/wbw/001_001_004.mp3",
+              "startMs": 2550,
+              "endMs": 4200
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "audioUrl": "https://verses.quran.com/Alafasy/mp3/001002.mp3",
+          "words": [
+            {
+              "index": 0,
+              "arabic": "ٱلْحَمْدُ",
+              "transliteration": "Al-Hamdu",
+              "translation": "All praises",
+              "audioUrl": "https://audio.qurancdn.com/wbw/001_002_001.mp3",
+              "startMs": 0,
+              "endMs": 850
+            },
+            {
+              "index": 1,
+              "arabic": "لِلَّهِ",
+              "transliteration": "lillahi",
+              "translation": "(be) to Allah",
+              "audioUrl": "https://audio.qurancdn.com/wbw/001_002_002.mp3",
+              "startMs": 850,
+              "endMs": 1600
+            },
+            {
+              "index": 2,
+              "arabic": "رَبِّ",
+              "transliteration": "Rabbi",
+              "translation": "(the) Lord",
+              "audioUrl": "https://audio.qurancdn.com/wbw/001_002_003.mp3",
+              "startMs": 1600,
+              "endMs": 2250
+            },
+            {
+              "index": 3,
+              "arabic": "ٱلْعَٰلَمِينَ",
+              "transliteration": "al-'alameen",
+              "translation": "(of) the worlds",
+              "audioUrl": "https://audio.qurancdn.com/wbw/001_002_004.mp3",
+              "startMs": 2250,
+              "endMs": 4100
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 112,
+      "nameArabic": "سُورَةُ ٱلْإِخْلَاصِ",
+      "nameEnglish": "Al-Ikhlas",
+      "meaning": "The Sincerity",
+      "ayahs": [
+        {
+          "number": 1,
+          "audioUrl": "https://verses.quran.com/Alafasy/mp3/112001.mp3",
+          "words": [
+            {
+              "index": 0,
+              "arabic": "قُلْ",
+              "transliteration": "Qul",
+              "translation": "Say",
+              "audioUrl": "https://audio.qurancdn.com/wbw/112_001_001.mp3",
+              "startMs": 0,
+              "endMs": 550
+            },
+            {
+              "index": 1,
+              "arabic": "هُوَ",
+              "transliteration": "Huwa",
+              "translation": "He",
+              "audioUrl": "https://audio.qurancdn.com/wbw/112_001_002.mp3",
+              "startMs": 550,
+              "endMs": 1050
+            },
+            {
+              "index": 2,
+              "arabic": "ٱللَّهُ",
+              "transliteration": "Allahu",
+              "translation": "(is) Allah",
+              "audioUrl": "https://audio.qurancdn.com/wbw/112_001_003.mp3",
+              "startMs": 1050,
+              "endMs": 1950
+            },
+            {
+              "index": 3,
+              "arabic": "أَحَدٌ",
+              "transliteration": "Ahad",
+              "translation": "the One",
+              "audioUrl": "https://audio.qurancdn.com/wbw/112_001_004.mp3",
+              "startMs": 1950,
+              "endMs": 3100
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "audioUrl": "https://verses.quran.com/Alafasy/mp3/112002.mp3",
+          "words": [
+            {
+              "index": 0,
+              "arabic": "ٱللَّهُ",
+              "transliteration": "Allahu",
+              "translation": "Allah",
+              "audioUrl": "https://audio.qurancdn.com/wbw/112_002_001.mp3",
+              "startMs": 0,
+              "endMs": 950
+            },
+            {
+              "index": 1,
+              "arabic": "ٱلصَّمَدُ",
+              "transliteration": "As-Samad",
+              "translation": "the Eternal, Absolute",
+              "audioUrl": "https://audio.qurancdn.com/wbw/112_002_002.mp3",
+              "startMs": 950,
+              "endMs": 2600
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
